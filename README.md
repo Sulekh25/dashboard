@@ -22,6 +22,12 @@ Welcome to **Dashboard**, a dynamic, multi-page application created with modern 
 
 ![Dashboard Light Mode](https://github.com/Sulekh25/dashboard/blob/main/%E2%80%AADashboard%20-%20Light%20Mode.png)
 
+## 🛠️ Live Preview
+
+You can try out the Dashboard live on CodeSandbox:
+
+[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/Sulekh25/dashboard)
+
 ## 🛠️ Technologies Used
 - **HTML5**: Semantic and structured content.
 - **SCSS**: Modular and reusable styles.
