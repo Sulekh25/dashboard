@@ -14,23 +14,13 @@ Welcome to **Dashboard**, a dynamic, multi-page application created with modern 
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Completion-100%25-brightgreen" alt="Completion Status">
-  &nbsp;&nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GziXnine/Dashboard" alt="Visitors">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/repo-size/GziXnine/Dashboard" alt="Repository Size">
-</p>
-
-<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
-
 <h3 align="center">Dark Mode</h3>
 
-![Dashboard Dark Mode](https://raw.githubusercontent.com/GziXnine/Dashboard/refs/heads/main/%E2%80%AADashboard%20-%20Dark%20Mode.png)
+![Dashboard Dark Mode](https://github.com/Sulekh25/dashboard/blob/main/%E2%80%AADashboard%20-%20Dark%20Mode.png)
 
 <h3 align="center">Light Mode</h3>
 
-![Dashboard Light Mode](https://raw.githubusercontent.com/GziXnine/Dashboard/refs/heads/main/%E2%80%AADashboard%20-%20Light%20Mode.png)
+![Dashboard Light Mode](https://github.com/Sulekh25/dashboard/blob/main/%E2%80%AADashboard%20-%20Light%20Mode.png)
 
 ## 🛠️ Technologies Used
 - **HTML5**: Semantic and structured content.
@@ -49,7 +39,7 @@ Welcome to **Dashboard**, a dynamic, multi-page application created with modern 
 ### Installation:
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/GziXnine/Dashboard.git
+    git clone https://github.com/Sulekh25/dashboard.git
     ```
 2. **Navigate to the project directory**:
     ```bash
@@ -71,7 +61,7 @@ This dashboard is highly customizable. You can easily modify:
 - [x] FontAwesome icons integration.
 
 ## 🙌 Contributions
-Contributions are welcome! Feel free to check the [issues page](https://github.com/GziXnine/Dashboard/issues) or submit a pull request.
+Contributions are welcome! Feel free to check the [issues page](https://github.com/Sulekh25/dashboard/issues) or submit a pull request.
 
 ## 📝 License
 This project is open-source and available under the [MIT License](LICENSE).
@@ -85,9 +75,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📬 Contact
 Feel free to reach out with any questions or feedback:
 
-- **GitHub**: [GziXnine](https://github.com/GziXnine)
-- **LinkedIn**: [Ahmed Allam](https://www.linkedin.com/in/1ahmed-allam)
-- **Telegram**: [Telegram](http://t.me/GziXnine).
-  
+- **GitHub**: [Sulekh25](https://github.com/Sulekh25)  
 ---
-_A project by Ahmed Allam, showcasing advanced front-end development skills._
+_A project by Sulekh Niwal, showcasing advanced front-end development skills._
