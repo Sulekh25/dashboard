@@ -24,9 +24,9 @@ Welcome to **Dashboard**, a dynamic, multi-page application created with modern 
 
 ## 🛠️ Live Preview
 
-You can try out the Dashboard live on CodeSandbox:
+You can view the live preview of the Dashboard on GitHub Pages:
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/Sulekh25/dashboard)
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-GitHub%20Pages-blue)](https://Sulekh25.github.io/dashboard/)
 
 ## 🛠️ Technologies Used
 - **HTML5**: Semantic and structured content.
